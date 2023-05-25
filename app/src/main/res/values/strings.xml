@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson1_6m</string>
+    <string name="suggest">Guess the number</string>
+    <string name="hint_of_et">Enter any text</string>
+    <string name="send">send</string>
+</resources>
